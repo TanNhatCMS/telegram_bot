@@ -1,0 +1,9 @@
+available_language: ["en", "vi"]
+
+languages:
+  en:
+    name: English
+    description: English is a West Germanic language first spoken in early medieval England, which has eventually become the leading language of international discourse in the 21st century. It is named after the Angles, one of the ancient Germanic peoples that migrated to the area of Great Britain that later took their name, England. Both names derive from Anglia, a peninsula on the Baltic Sea. English is most closely related to Frisian and Low Saxon, while its vocabulary has been significantly influenced by other Germanic languages, particularly Old Norse (a North Germanic language), as well as Latin and French.
+  vi:
+    name: Vietnamese
+    description: Vietnamese is an Astronautic language that originated in Vietnam, where it is the national and official language. It is the native language of the Vietnamese (Kinh) people, as well as a first or second language for the many
